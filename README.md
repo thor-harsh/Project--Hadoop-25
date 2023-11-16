@@ -1,6 +1,5 @@
 # Project--Hadoop-25
 
-
 <table>
   
 **In this project We will use Spark with Python to do an amazing stuff. Here We use Spark SQL to find the top 10 most popular movie by only considering the number of times it occured as a criteria i.e by grouping it and counting it**.<br></br>
